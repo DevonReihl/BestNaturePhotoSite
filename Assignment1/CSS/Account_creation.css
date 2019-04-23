@@ -1,0 +1,11 @@
+p{
+	font-family: Palation, Georgia, "Times New Roman", Arial, san-serif;
+	font-size:20px;
+}
+
+input[type="text"]{
+	width:450px;
+	margin:5 0;
+	border:5px double #B9BCC6;
+	border-radius:5px;
+}
